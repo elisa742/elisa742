@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elisa.
-- 👀 I’m interested in operating system.
+- 👀 I’m interested in software development and operating system.
 - 🌱 I’m currently learning haskell,prolog,kotlin.
 - 📫 How to reach me : elisahuangcuhk@gmail.com
 - ⚡ Fun fact: I played Javelin in high school.
